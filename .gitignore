@@ -1,0 +1,39 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data files
+*.xlsx
+*.csv
+*.log
+*.backup
+data/
+logs/
+output/
+parsed_csv/
+result xls/
+debug_screenshots/
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright
+.playwright-mcp/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Progress/state
+progress.json
+*.txt
+!requirements.txt
+!README.md

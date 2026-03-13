@@ -1,0 +1,11 @@
+logs/
+output/
+progress.json
+*.pyc
+__pycache__/
+.pytest_cache/
+*.log
+.DS_Store
+.vscode/
+*.xlsx
+!example_companies.xlsx
